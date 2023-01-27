@@ -1,5 +1,4 @@
 # Kapten-Oleng
-Tugas its Projeck
 
 HACK-ATM
 
