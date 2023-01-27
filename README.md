@@ -17,7 +17,7 @@ $ pkg install php
 
 $ pkg install git
 
-$ git clone https://github.com/reyspeed/HACK-ATM
+$ git clone https://github.com/HAMBALI251298/Kapten-Oleng/edit/main/README.md
 
 $ cd HACK-ATM
 
