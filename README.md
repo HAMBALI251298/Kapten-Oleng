@@ -6,11 +6,11 @@ pkg update && pkg upgrade
 
 pkg install python2
 
-Pkg install figlet
+pkg install figlet
 
-Pkg install toilet
+pkg install toilet
 
-Ptermux-setup-storage
+termux-setup-storage
 
 pkg install php
 
