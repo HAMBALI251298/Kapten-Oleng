@@ -6,17 +6,6 @@ Public
 Code
 Issues
 6
-Pull requests
-3
-Actions
-Projects
-Security
-Insights
-BAJINGANv6/BAJINGAN.sh
-@DarknessCyberTeam
-DarknessCyberTeam Add files via upload
- 1 contributor
-3338 lines (3110 sloc)  74.2 KB
 #!/system/xbin/bash
 #MauNgapainGblk?
 #DiRecodeGakBakalJadiinLuMastah
