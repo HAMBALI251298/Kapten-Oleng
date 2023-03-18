@@ -1,11 +1,3 @@
-Skip to content
-DarknessCyberTeam
-/
-BAJINGANv6
-Public
-Code
-Issues
-6
 #!/system/xbin/bash
 #MauNgapainGblk?
 #DiRecodeGakBakalJadiinLuMastah
