@@ -2,20 +2,20 @@
 clear
 cd module
 python2 please.py
-blue='\033[34;1m'
-green='\033[32;1m'  
+yellow='\033[34;1m'
+red='\033[32;1m'  
 purple='\033[35;1m'
 cyan='\033[36;1m'
-red='\033[31;1m'
+greend='\033[31;1m'
 white='\033[37;1m'                                           
-yellow='\033[33;1m'
+blue='\033[33;1m'
 sleep 1
 echo $red
 cat asw.txt
 echo ""
 echo "\033[34;1m[$]\033[36;1m============================\033[34;1m[$]"
 echo "\033[32;1mAuthor : Mr.B4J1N64N"
-echo "\033[37;1mFeat: Mr.IM81"
+echo "\033[37;1mFeat: Mr.B4j164N"
 echo "\033[35;1mversion Tools: 6"
 echo "\033[35;1mTeam : DARKNESS CYBER TEAM"
 echo "\033[33;1mKontak Me :  083108271123"
