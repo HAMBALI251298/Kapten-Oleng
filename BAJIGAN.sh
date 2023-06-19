@@ -1,10 +1,4 @@
 #!/system/xbin/bash
-#MauNgapainGblk?
-#DiRecodeGakBakalJadiinLuMastah
-#DiGantiAuthorGakBakalJadiinLuMaster
-#MikirMakeOtakGblk
-#KontolKaloMauReedit/Recode 
-#Pm Gua Bangsat
 clear
 cd module
 python2 please.py
