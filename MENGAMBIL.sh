@@ -18,7 +18,7 @@ command -v curl > /dev/null 2>&1 || { echo >&2 "I require curl but it's not inst
 sleep 3
 echo "\033[31;1m
 __________________________________
-  ║▒▒▒▒▒▒▒▒▒▒║  |By:MR.HAMBAL  |
+  ║▒▒▒▒▒▒▒▒▒▒║  |By:MR.HAMBALi |
   ║▒▒▒▒▒▒▒▒▒▒║  |Black Hat     |
   ║▒▒▒▒▒▒▒▒▒▒║  |Tersakiti     |
   ║▒▒▒▒▒▒▒▒▒▒║  |______________|
