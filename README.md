@@ -17,7 +17,10 @@ cd B4J1N64Nv5
 sh B4J1N64N.sh
 
 
+
+
 HACK-ATM
+
 
 pkg update && pkg upgrade
 
