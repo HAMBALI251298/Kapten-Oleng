@@ -38,7 +38,7 @@ __________________________________
      ╚════╝
 "
 echo '<×================================================×>' | lolcat
-figlet Menambil | lolcat
+figlet HAMBALI | lolcat
 echo '<×================================================×>' | lolcat
 
 echo '1.BANK MasterCard' | lolcat
