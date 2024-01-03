@@ -8,6 +8,8 @@ pkg install toilet
 
 pkg install php
 
+termux-stup-storage
+
 pkg install git
 
 git clone https://github.com/HAMBALI251298/Kapten-Oleng
