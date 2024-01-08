@@ -1,3 +1,12 @@
+Hi, i'am Hambali
+
+https://www.reverbnation.com/artist/djhambali
+⭐⭐⭐⭐⭐⭐
+
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/122048400-2af46d00-ce1c-11eb-94e0-c2c6ddaf6819.png">
+</p>
+
 <img src="pixel-neon.gif">
 
 
