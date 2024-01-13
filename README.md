@@ -197,3 +197,11 @@ python3 PhishMailer.py
 apt update
 apt install git -y
 git clone https://github.com/rajkumardusad/IP-Tracer.git
+
+apt install python3 curl php git openssh -y
+pip3 install requests wget pyshorteners
+git clone https://github.com/Cyber-Anonymous/Dark-Phish.git
+cd Dark-Phish
+python3 dark-phish.py
+python3 dark-phish.py -h
+python3 dark-phish.py -r
