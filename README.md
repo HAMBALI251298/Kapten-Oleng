@@ -64,26 +64,6 @@ Phishing Tool for Facebook, Instagram, Google, Microsoft, Netflix, PayPal, Steam
 	- Added 4 Port Forwarding Options.
 
 
-## Mod Features:
-- Colourized Text
-- Animations
-- In-built Setup for Termux
-- More extra features
-- More improvements
-- Bugs cleared
-- Added temporary Fix (ngrok workaround)
-- Added Requirements 
-
-
-![Screenshot](screenshot.png)
-
-![Screenshot_FB](screenshot_fb.png)
-
-### Usage:
-```bash
-apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AbirHasan2005/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
-```
-
 - You will need to download ngrok ngrok.com/get-started/setup for workaround.
 
 - Register and sign up for ngrok to obtain ngrok auth token in order for it to work push auth in directions as outlined on ngrok official website.
@@ -103,9 +83,8 @@ bash update.sh
 ## Legal disclaimer:
 ***Usage of Shellphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.***
 
-## Modified by @AbirHasan2005
+## Modified by @HAMBALI2005
 
-## Credits:
 #### TheLinuxChoice: https://github.com/thelinuxchoice
 #### DarksecDevelopers: https://github.com/DarksecDevelopers
 #### UndeadSec: https://github.com/UndeadSec
