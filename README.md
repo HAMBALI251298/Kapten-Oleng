@@ -9,6 +9,17 @@ https://www.reverbnation.com/artist/djhambali
 
 <img src="pixel-neon.gif">
 
+Installation T-Remix
+
+termux-setup-storage
+pkg update && pkg upgrade && pkg install git -y
+git clone https://github.com/Bhaviktutorials/T-Remix
+ls
+cd T-Remix
+ls
+chmod +x *
+bash t-remix.sh
+
 
 TOOLs B4J164N.v5
 
