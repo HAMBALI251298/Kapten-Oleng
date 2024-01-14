@@ -9,6 +9,40 @@ https://www.reverbnation.com/artist/djhambali
 
 <img src="pixel-neon.gif">
 
+## List of available sites:
+```
+[01] Facebook     [11] Twitch       [21] DeviantArt
+[02] Instagram    [12] Pinterest    [22] Badoo
+[03] Google       [13] Snapchat     [23] Origin
+[04] Microsoft    [14] Linkedin     [24] CryptoCoin
+[05] Netflix      [15] Ebay         [25] Yahoo
+[06] PayPal       [16] Dropbox      [26] Wordpress
+[07] Steam        [17] Protonmail   [27] Yandex
+[08] Twitter      [18] Spotify      [28] StackoverFlow
+[09] PlayStation  [19] Reddit       [29] VK
+[10] GitHub       [20] Adobe
+```
+
+## Mod Features:
+- Colourized Text
+- Animations
+- In-built Setup for Termux
+- More extra features
+- More improvements
+- Bugs cleared
+- Added temporary Fix (ngrok workaround)
+- Added Requirements 
+
+
+![Screenshot](screenshot.png)
+
+![Screenshot_FB](screenshot_fb.png)
+
+### Usage:
+```bash
+apt update && apt upgrade -y && apt install git wget php unzip curl -y && git clone https://github.com/AbirHasan2005/ShellPhish && cd ShellPhish && chmod +x * && bash shellphish.sh
+```
+
 Installation T-Remix
 
 termux-setup-storage
