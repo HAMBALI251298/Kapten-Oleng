@@ -109,6 +109,19 @@ ls
 chmod +x *
 bash t-remix.sh
 
+apt upgrade & update -y
+
+apt install python3 git -y
+
+git clone https://github.com/Raz-Ahamed/CCTV_Hack
+
+pip install -r requirements.txt
+
+cd CCTV_Hack
+
+chmod +x *
+
+python3 cctv.py
 
 git clone --depth=1 https://github.com/htr-tech/zphisher.git
 cd zphisher
